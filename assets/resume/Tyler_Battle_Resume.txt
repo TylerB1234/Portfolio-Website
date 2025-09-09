@@ -1,0 +1,95 @@
+TYLER BATTLE
+Software Developer & Problem Solver
+
+Contact Information:
+Email: tyler.battle@email.com
+Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/tyler-battle
+GitHub: github.com/TylerB1234
+Location: City, State
+
+PROFESSIONAL SUMMARY
+Passionate software developer with experience in full-stack web development, 
+mobile applications, and data analytics. Proven ability to create efficient, 
+scalable solutions and collaborate effectively in team environments. 
+Strong foundation in multiple programming languages and modern development frameworks.
+
+TECHNICAL SKILLS
+Programming Languages: JavaScript, Python, Java, C++, HTML5, CSS3
+Frameworks & Libraries: React, Node.js, Express.js, Flask, React Native
+Databases: MongoDB, PostgreSQL, MySQL
+Cloud & DevOps: AWS, Docker, Kubernetes, Git, CI/CD
+Tools: VS Code, IntelliJ, Postman, Figma
+
+PROFESSIONAL EXPERIENCE
+
+Software Developer | Tech Solutions Inc. | 2023 - Present
+• Developed full-stack web applications using React, Node.js, and MongoDB
+• Implemented RESTful APIs serving 10,000+ daily active users
+• Collaborated with UX/UI designers to create responsive, accessible interfaces
+• Participated in agile development processes and code review sessions
+• Improved application performance by 40% through code optimization
+
+Junior Developer | StartUp Innovations | 2022 - 2023
+• Built and maintained web applications using JavaScript and Python
+• Contributed to mobile app development using React Native
+• Assisted in database design and optimization for improved query performance
+• Worked closely with senior developers to implement best practices
+• Participated in daily standups and sprint planning meetings
+
+Programming Intern | Digital Agency Pro | 2021 - 2022
+• Developed front-end components using HTML, CSS, and JavaScript
+• Learned version control with Git and collaborative development workflows
+• Assisted in testing and debugging processes
+• Gained experience in responsive web design principles
+• Contributed to documentation and code maintenance
+
+EDUCATION
+
+Bachelor of Science in Computer Science | University Name | 2018 - 2022
+GPA: 3.8/4.0
+Relevant Coursework: Data Structures, Algorithms, Database Systems, 
+Software Engineering, Web Development, Mobile App Development
+
+PROJECTS
+
+Web Application Dashboard
+• Comprehensive dashboard built with React and Node.js
+• Features real-time data visualization and user management
+• Integrated MongoDB for data storage and retrieval
+• Deployed on AWS with CI/CD pipeline
+
+Mobile-First E-Commerce Platform
+• Responsive e-commerce site optimized for mobile devices
+• Integrated Stripe API for secure payment processing
+• Built with JavaScript, Express.js, and PostgreSQL
+• Implemented inventory management system
+
+Data Analytics Tool
+• Python-based application for processing large datasets
+• Interactive visualizations using D3.js
+• Flask web framework for API development
+• Pandas for data manipulation and analysis
+
+Cloud Infrastructure Manager
+• Automated deployment tool using Docker and Kubernetes
+• AWS infrastructure management with Terraform
+• System monitoring and performance optimization
+• Reduced deployment time by 60%
+
+CERTIFICATIONS
+• AWS Certified Developer - Associate (2023)
+• Google Cloud Professional Cloud Developer (2023)
+• React Developer Certification (2022)
+• Certified Scrum Master (2022)
+
+ACHIEVEMENTS
+• Dean's List: Fall 2020, Spring 2021, Fall 2021
+• Hackathon Winner: University Tech Challenge 2021
+• Open Source Contributor: 5+ GitHub projects with 100+ stars
+• Published Technical Blog: 15+ articles on web development
+
+ADDITIONAL INFORMATION
+• Languages: English (Native), Spanish (Conversational)
+• Volunteer: Code mentor for local coding bootcamp
+• Interests: Open source contributions, technology blogging, hiking

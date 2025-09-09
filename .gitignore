@@ -1,0 +1,67 @@
+# Portfolio Website .gitignore
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
+.cache/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies (if using Node.js build tools in the future)
+node_modules/
+npm-debug.log
+
+# Build outputs
+/dist/
+/build/
+*.min.js
+*.min.css
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Backup files
+*.bak
+*.backup
+
+# Image processing temporary files
+*.psd
+*.ai
+/assets/images/temp/
+
+# Analytics and tracking files
+google*.html
+*.analytics
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+*.tgz
+*.tar.gz
